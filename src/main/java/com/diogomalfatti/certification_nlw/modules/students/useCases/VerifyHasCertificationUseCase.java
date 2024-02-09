@@ -1,7 +1,7 @@
 package com.diogomalfatti.certification_nlw.modules.students.useCases;
 
 import com.diogomalfatti.certification_nlw.modules.students.dto.VerifyHasCertificationDTO;
-import com.diogomalfatti.certification_nlw.modules.students.repositories.CertificationStudentEntityRepository;
+import com.diogomalfatti.certification_nlw.modules.students.repositories.CertificationStudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -9,11 +9,12 @@ import org.springframework.stereotype.Service;
 public class VerifyHasCertificationUseCase {
 
     @Autowired
-    private CertificationStudentEntityRepository certificationStudentEntityRepository;
+    private CertificationStudentRepository certificationStudentRepository;
 
     public boolean execute(VerifyHasCertificationDTO dto) {
 
-        var result = this.certificationStudentEntityRepository.findByStudentEmailAndTechnology(dto.getEmail(), dto.getTechnology());
+        var result = this.certificationStudentRepository.findByStudentEmailAndTechnology(
+                dto.getEmail(), dto.getTechnology());
 
         if(!result.isEmpty()) {
             return true;

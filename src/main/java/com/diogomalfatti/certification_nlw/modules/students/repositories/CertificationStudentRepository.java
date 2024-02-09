@@ -9,8 +9,11 @@ import java.util.List;
 import java.util.UUID;
 
 @Repository
-public interface CertificationStudentEntityRepository extends JpaRepository<CertificationStudentEntity, UUID> {
+public interface CertificationStudentRepository extends JpaRepository<CertificationStudentEntity, UUID> {
 
     @Query("SELECT c FROM certifications c INNER JOIN c.studentEntity std WHERE std.email = :email AND c.technology = :technology")
     List<CertificationStudentEntity> findByStudentEmailAndTechnology(String email, String technology);
+
+    @Query("SELECT c from certifications c ORDER BY c.grate DESC LIMIT 10")
+    List<CertificationStudentEntity> findTop10ByOrderByGrateDesc();
 }
