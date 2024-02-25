@@ -48,12 +48,15 @@ cardinalidades entre tabelas e dto's.</p>
 <img align="center" alt=""
   height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwcertificado.png" />
 
-<p>Autor :</p>
+<p>Feito com ❤️ por :</p>
+
 ### Diogo Malfatti
+
 <img align="center" alt=""
   height="100em" src="https://avatars.githubusercontent.com/u/52624848?s=400&u=d80e830d58ef6925f2897d660df9650f64533de5&v=4" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 
+<p>Este repositório foi criado para fins de estudo.</p>
 
-  <img align="center" alt=""
-  src="" />
+<br/>
