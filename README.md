@@ -18,7 +18,7 @@ cardinalidades entre tabelas e dto's.</p>
 ### Este foi um projeto criado pela Rocketseat na NLW Expert em fev/24
 
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwExpert.png" />
+  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwExpert.png" />
 
 ###
 
@@ -26,34 +26,34 @@ cardinalidades entre tabelas e dto's.</p>
 
 <p> - Diagrama do modelo relacional simplificado da API</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwmodelorelacional.png" />
+  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwmodelorelacional.png" />
 
 <p> - Projeto rodando na IDE Intellij</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
+  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwspringproject.png" />
 
 <p> - Usei o Insomnia para testar os endpoints</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwinsomniapost.png" />
+  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwinsomniapost.png" />
 
 <p> - Criamos o banco de dados PostgreSQL no Docker Compose</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdockerpostgresql.png" />
+  height="400em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdockerpostgresql.png" />
 
 <p> - Usei a extensão Database Client do Intellij para visualizar o banco de dados PostgreSQL</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdatabaseintellij.png" />
+  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwdatabaseintellij.png" />
 
 <p> - Certificado de participação do evento</p>
 <img align="center" alt=""
-  height="500em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwcertificado.png" />
+  height="418em" src="https://github.com/DiogoMalfatti/certificationStudents/blob/main/.mvn/wrapper/assets/images/nlwcertificado.png" />
 
 <p>Feito com ❤️ por :</p>
 
 ### Diogo Malfatti
 
 <img align="center" alt=""
-  height="100em" src="https://avatars.githubusercontent.com/u/52624848?s=400&u=d80e830d58ef6925f2897d660df9650f64533de5&v=4" />
+  height="115em" src="https://avatars.githubusercontent.com/u/52624848?s=400&u=d80e830d58ef6925f2897d660df9650f64533de5&v=4" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomalfatti/)
 
